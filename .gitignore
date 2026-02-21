@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Next.js
+.next/
+out/
+*.log
+*.test.js
+*.tsbuildinfo
+
+# Misc
+.DS_Store
+.env
